@@ -10,12 +10,12 @@ body {
   justify-content: center;
 
   background-size: 1000px;
-  background-image: url('Vidishaaa/image/SpecialBalloon.jpg');
+  background-image: url('image/SpecialBalloon.jpg');
   background-position: center center;
 }
 
 .paper {
-  background-image: url('Vidishaaa/image/pink.bg.jpg');
+  background-image: url('image/pink.bg.jpg');
   background-size: 500px;
   background-position: center center;
   padding: 20px 100px;
@@ -50,7 +50,7 @@ img {
 
 .paper.heart::after {
   content: "";
-  background-image: url('Vidishaaa/image/paperheart.png');
+  background-image: url('image/paperheart.png');
   width: 100%;
   height: 100%;
   position: absolute;
